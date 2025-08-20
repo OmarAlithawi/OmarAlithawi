@@ -53,10 +53,7 @@ I’ve successfully managed and launched **25+ products** across **e-commerce pl
 - **Moreh Multi-vendor Store** – WordPress + Flutter | Managed roadmap & launch of e-commerce marketplace (apps for vendors & customers).  
 - **Almawred Store** – WordPress + WooCommerce | Delivered full e-commerce site in 1 month.  
 - **Urkademy LMS** – WordPress + Moodle | Launched within 2 months for online education.  
-- **Raed LMS** – Custom WordPress Theme | Deployed full learning platform in 1 month.  
-
-🔗 Projects:  
-[dubsar.vercel.app](https://dubsar.vercel.app/) • [moreh.app](https://moreh.app/) • [almawred-store.com](https://almawred-store.com/) • [urkademy.com](https://urkademy.com/) • [raededu.com](https://raededu.com/)  
+- **Raed LMS** – Custom WordPress Theme | Deployed full learning platform in 1 month.
 
 ---
 
