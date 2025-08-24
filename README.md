@@ -80,7 +80,7 @@ I’ve successfully managed and launched **25+ products** across **e-commerce pl
 ## 📫 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://urkimedia.com/websites-development/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://alithawi.com/)  
 
 ---
 ⭐️ From [Omar Alithawi](https://github.com/OmarAlithawi)  
